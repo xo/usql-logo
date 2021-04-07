@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="230mm"
+   width="220mm"
    height="80mm"
-   viewBox="0 0 230 80"
+   viewBox="0 0 220 80"
    version="1.1"
    id="svg2685"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="usql-logo.svg">
+   sodipodi:docname="usql.svg">
   <defs
      id="defs2679" />
   <sodipodi:namedview
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="950"
+     inkscape:cx="421.42857"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -51,42 +51,46 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:68.865px;line-height:1.25;font-family:sans-serif;letter-spacing:-2.11666667px;fill:#e06c75;fill-opacity:1;stroke:none;stroke-width:1.51125"
-       x="43.333546"
-       y="56.475964"
-       id="text845"
-       transform="scale(0.96468007,1.0366131)"><tspan
-         sodipodi:role="line"
-         id="tspan843"
-         x="43.333546"
+    <g
+       id="g51"
+       transform="translate(-4.9999984)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:68.865px;line-height:1.25;font-family:sans-serif;letter-spacing:-2.11667px;fill:#e06c75;fill-opacity:1;stroke:none;stroke-width:1.51125"
+         x="46.076004"
          y="56.475964"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.865px;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';fill:#e06c75;fill-opacity:1;stroke-width:1.51125;"
-         dx="0">usql</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:63.15px;line-height:1.25;font-family:sans-serif;fill:#abb2bf;fill-opacity:1;stroke:none;stroke-width:2.64767"
-       x="242.57152"
-       y="44.584957"
-       id="text841"
-       transform="scale(0.80327266,1.2449073)"><tspan
-         sodipodi:role="line"
-         id="tspan839"
-         x="242.57152"
+         id="text845"
+         transform="scale(0.96468007,1.0366131)"><tspan
+           sodipodi:role="line"
+           id="tspan843"
+           x="46.076004"
+           y="56.475964"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.865px;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';fill:#e06c75;fill-opacity:1;stroke-width:1.51125"
+           dx="0">usql</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:63.15px;line-height:1.25;font-family:sans-serif;fill:#abb2bf;fill-opacity:1;stroke:none;stroke-width:2.64767"
+         x="245.86504"
          y="44.584957"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.15px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#abb2bf;fill-opacity:1;stroke-width:2.64767">&gt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:84.9664px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="3.3204045"
-       y="63.00182"
-       id="text859"
-       transform="matrix(0.93621879,0.00506234,-0.00443727,1.0681024,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan857"
-         x="3.3204045"
-         y="63.00182"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:84.9664px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00aeff;fill-opacity:1;stroke:none;stroke-width:0.236017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">*</tspan></text>
+         id="text841"
+         transform="scale(0.80327266,1.2449073)"><tspan
+           sodipodi:role="line"
+           id="tspan839"
+           x="245.86504"
+           y="44.584957"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.15px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#abb2bf;fill-opacity:1;stroke-width:2.64767">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:84.9664px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="6.146172"
+         y="62.988426"
+         id="text859"
+         transform="matrix(0.93621879,0.00506234,-0.00443727,1.0681024,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan857"
+           x="6.146172"
+           y="62.988426"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:84.9664px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00aeff;fill-opacity:1;stroke:none;stroke-width:0.236017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">*</tspan></text>
+    </g>
   </g>
 </svg>

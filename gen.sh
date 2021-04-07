@@ -7,7 +7,7 @@ pushd $SRC &> /dev/null
 LOGO=usql
 OPTIMIZED=${LOGO}-optimized
 MINIMIZED=${LOGO}-minimized
-WIDTH=230
+WIDTH=220
 HEIGHT=80
 
 # optimize
