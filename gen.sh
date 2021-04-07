@@ -5,6 +5,7 @@ SRC="$(cd -P "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 pushd $SRC &> /dev/null
 
 LOGO=usql
+ICON=icon
 OPTIMIZED=${LOGO}-optimized
 MINIMIZED=${LOGO}-minimized
 WIDTH=220
@@ -36,5 +37,16 @@ inkscape \
   --export-type=png \
   -o $LOGO.png \
   $LOGO.svg
+
+for i in 32 48 64 128 256 512; do
+# generate png
+inkscape \
+  --export-area-page \
+  --export-width=$i \
+  --export-height=$i \
+  --export-type=png \
+  -o $ICON-${i}x${i}.png \
+  $ICON.svg
+done
 
 popd &> /dev/null
