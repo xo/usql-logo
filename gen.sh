@@ -31,8 +31,8 @@ svgo \
 # generate png
 inkscape \
   --export-area-page \
-  --export-width=$WIDTH \
-  --export-height=$HEIGHT \
+  --export-width=$((WIDTH*8)) \
+  --export-height=$((HEIGHT*8)) \
   --export-type=png \
   -o $LOGO.png \
   $LOGO.svg
