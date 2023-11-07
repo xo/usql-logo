@@ -49,4 +49,6 @@ inkscape \
   $ICON.svg
 done
 
+img2sixel < usql.png > usql.sixel
+
 popd &> /dev/null
