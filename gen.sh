@@ -46,6 +46,14 @@ inkscape \
   -o $LOGO-small.png \
   $LOGO.svg
 
+inkscape \
+  --export-area-page \
+  --export-width=$((WIDTH*2)) \
+  --export-height=$((HEIGHT*2)) \
+  --export-type=png \
+  -o $LOGO-medium.png \
+  $LOGO.svg
+
 # icons
 for i in 32 48 64 128 256 512; do
 # generate png
@@ -58,6 +66,6 @@ inkscape \
   $ICON.svg
 done
 
-img2sixel < usql.png > usql.sixel
+img2sixel --bgcolor '#000000' < usql.png > usql.sixel
 
 popd &> /dev/null
